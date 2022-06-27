@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\贪心">
+      <UniqueIdentifier>{0da81ac7-fbbf-4d48-aa82-f9317f24dc60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\链表">
+      <UniqueIdentifier>{1e8cecc5-dfcf-4005-acdf-ee78e8024c98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\回溯">
+      <UniqueIdentifier>{a8425e81-3a35-40b7-a16f-244534e531f8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="53. 最大子数组和.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="208. 实现 Trie (前缀树).cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="221. 最大正方形.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="376.摆动序列.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="860. 柠檬水找零.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="203. 移除链表元素.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="707. 设计链表.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="206. 反转链表.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="216. 组合总和 III.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="77. 组合.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="17. 电话号码的字母组合.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="39. 组合总和.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="131. 分割回文串.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="93. 复原 IP 地址.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="78. 子集.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="90. 子集 II.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="491. 递增子序列.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="listNode.h">
+      <Filter>源文件\链表</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

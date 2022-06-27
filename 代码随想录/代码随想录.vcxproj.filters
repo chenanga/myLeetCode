@@ -78,6 +78,9 @@
     <ClCompile Include="491. 递增子序列.cpp">
       <Filter>源文件\回溯</Filter>
     </ClCompile>
+    <ClCompile Include="46. 全排列.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

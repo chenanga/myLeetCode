@@ -87,6 +87,12 @@
     <ClCompile Include="332. 重新安排行程.cpp">
       <Filter>源文件\回溯</Filter>
     </ClCompile>
+    <ClCompile Include="51. N 皇后.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="37. 解数独.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

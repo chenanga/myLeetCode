@@ -81,6 +81,12 @@
     <ClCompile Include="46. 全排列.cpp">
       <Filter>源文件\回溯</Filter>
     </ClCompile>
+    <ClCompile Include="47. 全排列 II.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="332. 重新安排行程.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

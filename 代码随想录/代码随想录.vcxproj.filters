@@ -22,6 +22,9 @@
     <Filter Include="源文件\回溯">
       <UniqueIdentifier>{a8425e81-3a35-40b7-a16f-244534e531f8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\NewFilter1">
+      <UniqueIdentifier>{ec48eb96-84aa-48cc-9600-f7f31f8a684c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="53. 最大子数组和.cpp">
@@ -92,6 +95,9 @@
     </ClCompile>
     <ClCompile Include="37. 解数独.cpp">
       <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="122. 买卖股票的最佳时机 II.cpp">
+      <Filter>源文件\贪心</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

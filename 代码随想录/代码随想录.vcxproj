@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="122. 买卖股票的最佳时机 II.cpp" />
     <ClCompile Include="131. 分割回文串.cpp" />
     <ClCompile Include="17. 电话号码的字母组合.cpp" />
     <ClCompile Include="203. 移除链表元素.cpp" />
@@ -163,6 +164,7 @@
     <ClCompile Include="376.摆动序列.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="55. 跳跃游戏.cpp" />
     <ClCompile Include="707. 设计链表.cpp" />
     <ClCompile Include="77. 组合.cpp" />
     <ClCompile Include="78. 子集.cpp" />

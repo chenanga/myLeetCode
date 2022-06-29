@@ -102,6 +102,9 @@
     <ClCompile Include="55. 跳跃游戏.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
+    <ClCompile Include="45. 跳跃游戏 II.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

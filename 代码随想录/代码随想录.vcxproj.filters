@@ -22,9 +22,6 @@
     <Filter Include="源文件\回溯">
       <UniqueIdentifier>{a8425e81-3a35-40b7-a16f-244534e531f8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\NewFilter1">
-      <UniqueIdentifier>{ec48eb96-84aa-48cc-9600-f7f31f8a684c}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="53. 最大子数组和.cpp">
@@ -103,6 +100,9 @@
       <Filter>源文件\贪心</Filter>
     </ClCompile>
     <ClCompile Include="45. 跳跃游戏 II.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="1005. K 次取反后最大化的数组和.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
   </ItemGroup>

@@ -114,6 +114,9 @@
     <ClCompile Include="406. 根据身高重建队列.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
+    <ClCompile Include="452. 用最少数量的箭引爆气球.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

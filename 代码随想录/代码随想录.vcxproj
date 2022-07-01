@@ -181,6 +181,7 @@
     <ClCompile Include="45. 跳跃游戏 II.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="452. 用最少数量的箭引爆气球.cpp" />
     <ClCompile Include="46. 全排列.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

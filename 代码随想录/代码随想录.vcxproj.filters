@@ -132,6 +132,9 @@
     <ClCompile Include="714. 买卖股票的最佳时机含手续费.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
+    <ClCompile Include="968. 监控二叉树.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

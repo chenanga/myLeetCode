@@ -208,6 +208,7 @@
     <ClCompile Include="707. 设计链表.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="738. 单调递增的数字.cpp" />
     <ClCompile Include="763. 划分字母区间.cpp" />
     <ClCompile Include="77. 组合.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

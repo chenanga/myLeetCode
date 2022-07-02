@@ -129,6 +129,9 @@
     <ClCompile Include="738. 单调递增的数字.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
+    <ClCompile Include="714. 买卖股票的最佳时机含手续费.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

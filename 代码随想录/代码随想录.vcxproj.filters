@@ -171,6 +171,9 @@
     <ClCompile Include="518. 零钱兑换 II.cpp">
       <Filter>源文件\动态规划</Filter>
     </ClCompile>
+    <ClCompile Include="377. 组合总和 Ⅳ.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

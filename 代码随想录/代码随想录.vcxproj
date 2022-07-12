@@ -143,6 +143,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="1049. 最后一块石头的重量 II.cpp" />
+    <ClCompile Include="121. 买卖股票的最佳时机.cpp" />
     <ClCompile Include="122. 买卖股票的最佳时机 II.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

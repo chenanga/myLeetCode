@@ -177,6 +177,7 @@
     <ClCompile Include="332. 重新安排行程.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="337. 打家劫舍 III.cpp" />
     <ClCompile Include="343. 整数拆分.cpp" />
     <ClCompile Include="37. 解数独.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

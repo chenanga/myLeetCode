@@ -204,6 +204,9 @@
     <ClCompile Include="123. 买卖股票的最佳时机 III.cpp">
       <Filter>源文件\动态规划</Filter>
     </ClCompile>
+    <ClCompile Include="188. 买卖股票的最佳时机 IV.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

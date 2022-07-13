@@ -230,6 +230,7 @@
     <ClCompile Include="707. 设计链表.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="714. 买卖股票的最佳时机含手续费-动归.cpp" />
     <ClCompile Include="714. 买卖股票的最佳时机含手续费.cpp" />
     <ClCompile Include="738. 单调递增的数字.cpp" />
     <ClCompile Include="746. 使用最小花费爬楼梯.cpp" />

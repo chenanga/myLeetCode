@@ -213,6 +213,9 @@
     <ClCompile Include="714. 买卖股票的最佳时机含手续费-动归.cpp">
       <Filter>源文件\动态规划</Filter>
     </ClCompile>
+    <ClCompile Include="300. 最长递增子序列.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

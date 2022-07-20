@@ -177,6 +177,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="279. 完全平方数.cpp" />
+    <ClCompile Include="300. 最长递增子序列.cpp" />
     <ClCompile Include="309. 最佳买卖股票时机含冷冻期.cpp" />
     <ClCompile Include="322. 零钱兑换.cpp" />
     <ClCompile Include="332. 重新安排行程.cpp">

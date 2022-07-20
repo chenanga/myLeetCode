@@ -226,6 +226,7 @@
     <ClCompile Include="56. 合并区间.cpp" />
     <ClCompile Include="62. 不同路径.cpp" />
     <ClCompile Include="63. 不同路径 II.cpp" />
+    <ClCompile Include="674. 最长连续递增序列.cpp" />
     <ClCompile Include="70. 爬楼梯-进阶.cpp" />
     <ClCompile Include="70. 爬楼梯.cpp" />
     <ClCompile Include="707. 设计链表.cpp">

@@ -225,6 +225,9 @@
     <ClCompile Include="1143. 最长公共子序列.cpp">
       <Filter>源文件\动态规划</Filter>
     </ClCompile>
+    <ClCompile Include="1035. 不相交的线.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

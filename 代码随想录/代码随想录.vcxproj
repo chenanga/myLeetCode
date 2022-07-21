@@ -142,6 +142,7 @@
     <ClCompile Include="1005. K 次取反后最大化的数组和.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="1035. 不相交的线.cpp" />
     <ClCompile Include="1049. 最后一块石头的重量 II.cpp" />
     <ClCompile Include="1143. 最长公共子序列.cpp" />
     <ClCompile Include="121. 买卖股票的最佳时机.cpp" />

@@ -216,6 +216,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="518. 零钱兑换 II.cpp" />
+    <ClCompile Include="53. 最大子数组和-动态规划.cpp" />
     <ClCompile Include="53. 最大子数组和.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

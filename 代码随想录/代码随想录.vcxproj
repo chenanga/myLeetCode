@@ -145,6 +145,7 @@
     <ClCompile Include="1035. 不相交的线.cpp" />
     <ClCompile Include="1049. 最后一块石头的重量 II.cpp" />
     <ClCompile Include="1143. 最长公共子序列.cpp" />
+    <ClCompile Include="115. 不同的子序列.cpp" />
     <ClCompile Include="121. 买卖股票的最佳时机.cpp" />
     <ClCompile Include="122. 买卖股票的最佳时机 II-动归.cpp" />
     <ClCompile Include="122. 买卖股票的最佳时机 II.cpp">

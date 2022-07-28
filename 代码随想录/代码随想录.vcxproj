@@ -229,6 +229,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="56. 合并区间.cpp" />
+    <ClCompile Include="583. 两个字符串的删除操作.cpp" />
     <ClCompile Include="62. 不同路径.cpp" />
     <ClCompile Include="63. 不同路径 II.cpp" />
     <ClCompile Include="674. 最长连续递增序列.cpp" />

@@ -25,6 +25,9 @@
     <Filter Include="源文件\动态规划">
       <UniqueIdentifier>{37e865e6-a448-4bbf-8044-1c593c5ead1f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\单调栈">
+      <UniqueIdentifier>{ed35de0a-8c80-4202-81bb-9583d484357b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="53. 最大子数组和.cpp">
@@ -249,8 +252,11 @@
     <ClCompile Include="516. 最长回文子序列.cpp">
       <Filter>源文件\动态规划</Filter>
     </ClCompile>
-    <ClCompile Include="单调栈.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="739. 每日温度.cpp">
+      <Filter>源文件\单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="496. 下一个更大元素 I.cpp">
+      <Filter>源文件\单调栈</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

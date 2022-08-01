@@ -214,6 +214,7 @@
     </ClCompile>
     <ClCompile Include="494. 目标和.cpp" />
     <ClCompile Include="496. 下一个更大元素 I.cpp" />
+    <ClCompile Include="503. 下一个更大元素 II.cpp" />
     <ClCompile Include="509. 斐波那契数.cpp" />
     <ClCompile Include="51. N 皇后.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

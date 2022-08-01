@@ -261,6 +261,12 @@
     <ClCompile Include="503. 下一个更大元素 II.cpp">
       <Filter>源文件\单调栈</Filter>
     </ClCompile>
+    <ClCompile Include="42. 接雨水.cpp">
+      <Filter>源文件\单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="84. 柱状图中最大的矩形.cpp">
+      <Filter>源文件\单调栈</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

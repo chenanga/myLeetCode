@@ -197,6 +197,7 @@
     </ClCompile>
     <ClCompile Include="392. 判断子序列.cpp" />
     <ClCompile Include="406. 根据身高重建队列.cpp" />
+    <ClCompile Include="42. 接雨水.cpp" />
     <ClCompile Include="435. 无重叠区间.cpp" />
     <ClCompile Include="45. 跳跃游戏 II.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
@@ -255,6 +256,7 @@
     <ClCompile Include="78. 子集.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="84. 柱状图中最大的矩形.cpp" />
     <ClCompile Include="860. 柠檬水找零.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

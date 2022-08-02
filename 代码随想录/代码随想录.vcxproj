@@ -179,6 +179,7 @@
     <ClCompile Include="221. 最大正方形.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="242. 有效的字母异位词.cpp" />
     <ClCompile Include="279. 完全平方数.cpp" />
     <ClCompile Include="300. 最长递增子序列.cpp" />
     <ClCompile Include="309. 最佳买卖股票时机含冷冻期.cpp" />

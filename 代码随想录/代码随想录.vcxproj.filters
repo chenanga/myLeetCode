@@ -28,6 +28,9 @@
     <Filter Include="源文件\单调栈">
       <UniqueIdentifier>{ed35de0a-8c80-4202-81bb-9583d484357b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\哈希表">
+      <UniqueIdentifier>{acc84154-59e1-4868-b0ad-eefb5443a1f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="53. 最大子数组和.cpp">
@@ -266,6 +269,9 @@
     </ClCompile>
     <ClCompile Include="84. 柱状图中最大的矩形.cpp">
       <Filter>源文件\单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="242. 有效的字母异位词.cpp">
+      <Filter>源文件\哈希表</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

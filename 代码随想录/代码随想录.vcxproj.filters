@@ -279,6 +279,9 @@
     <ClCompile Include="202. 快乐数.cpp">
       <Filter>源文件\哈希表</Filter>
     </ClCompile>
+    <ClCompile Include="1. 两数之和.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

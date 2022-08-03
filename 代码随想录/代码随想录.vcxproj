@@ -159,6 +159,7 @@
     <ClCompile Include="134. 加油站.cpp" />
     <ClCompile Include="135. 分发糖果.cpp" />
     <ClCompile Include="139. 单词拆分.cpp" />
+    <ClCompile Include="15. 三数之和.cpp" />
     <ClCompile Include="17. 电话号码的字母组合.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

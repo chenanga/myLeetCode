@@ -246,6 +246,7 @@
     </ClCompile>
     <ClCompile Include="56. 合并区间.cpp" />
     <ClCompile Include="583. 两个字符串的删除操作.cpp" />
+    <ClCompile Include="59. 螺旋矩阵 II.cpp" />
     <ClCompile Include="62. 不同路径.cpp" />
     <ClCompile Include="63. 不同路径 II.cpp" />
     <ClCompile Include="647. 回文子串.cpp" />

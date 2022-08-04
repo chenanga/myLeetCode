@@ -315,6 +315,9 @@
     <ClCompile Include="27. 移除元素.cpp">
       <Filter>源文件\数组</Filter>
     </ClCompile>
+    <ClCompile Include="977. 有序数组的平方.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

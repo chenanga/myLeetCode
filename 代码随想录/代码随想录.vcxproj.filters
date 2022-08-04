@@ -312,10 +312,16 @@
     <ClCompile Include="704. 二分查找源.cpp">
       <Filter>源文件\数组</Filter>
     </ClCompile>
+    <ClCompile Include="27. 移除元素.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">
       <Filter>源文件\链表</Filter>
+    </ClInclude>
+    <ClInclude Include="general.h">
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

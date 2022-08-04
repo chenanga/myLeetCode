@@ -318,6 +318,9 @@
     <ClCompile Include="977. 有序数组的平方.cpp">
       <Filter>源文件\数组</Filter>
     </ClCompile>
+    <ClCompile Include="209. 长度最小的子数组.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

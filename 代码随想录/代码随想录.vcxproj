@@ -176,6 +176,7 @@
     <ClCompile Include="208. 实现 Trie (前缀树).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="209. 长度最小的子数组.cpp" />
     <ClCompile Include="213. 打家劫舍 II.cpp" />
     <ClCompile Include="216. 组合总和 III.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

@@ -34,6 +34,9 @@
     <Filter Include="源文件\字符串">
       <UniqueIdentifier>{a268d1c2-d026-4d16-b8a4-4253cb6aa2ea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\数组">
+      <UniqueIdentifier>{45209e71-6e9a-4477-bf65-cf6684adbe47}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="53. 最大子数组和.cpp">
@@ -305,6 +308,9 @@
     </ClCompile>
     <ClCompile Include="剑指 Offer 05. 替换空格.cpp">
       <Filter>源文件\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="704. 二分查找源.cpp">
+      <Filter>源文件\数组</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

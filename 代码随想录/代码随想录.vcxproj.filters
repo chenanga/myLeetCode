@@ -324,6 +324,9 @@
     <ClCompile Include="59. 螺旋矩阵 II.cpp">
       <Filter>源文件\数组</Filter>
     </ClCompile>
+    <ClCompile Include="151. 颠倒字符串中的单词.cpp">
+      <Filter>源文件\字符串</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

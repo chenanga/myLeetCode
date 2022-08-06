@@ -26,44 +26,44 @@
 
 class Solution {
 public:
-    string reverseWords(string s) {
-        removeExtraSpaces(s);
+	string reverseWords(string s) {
+		removeExtraSpaces(s);
 
-        int left = 0, right = s.size() - 1;
-        while (left < right)
-            swap(s[left++], s[right--]);
+		int left = 0, right = s.size() - 1;
+		while (left < right)
+			swap(s[left++], s[right--]);
 
-        left = 0;
-        for (int i = 0; i <= s.size(); ++i) {
-            if (s[i] == ' ' || s.size() == i) {
-                reverseStr(s, left, i - 1);
-                left = i + 1;
-            }
-        }
+		left = 0;
+		for (int i = 0; i <= s.size(); ++i) {
+			if (s[i] == ' ' || s.size() == i) {
+				reverseStr(s, left, i - 1);
+				left = i + 1;
+			}
+		}
 
-        return s;
-    }
+		return s;
+	}
 private:
-    void removeExtraSpaces(string& s) {
-        int slow = 0, fast = 0;
-        while (fast < s.size()) {
-            if (s[fast] != ' ') {
-                if (slow != 0)
-                    s[slow++] = ' ';  // 加空格
-                while (fast < s.size() && s[fast] != ' ')
-                    s[slow++] = s[fast++];
-            }
-            else
-                ++fast;
-        }
-        s.resize(slow);
-        return;
-    }
-    // 反转指定区间的 s[left...right]
-    void reverseStr(string& s, int left, int right) {
-        while (left < right)
-            swap(s[left++], s[right--]);
-        return;
-    }
+	void removeExtraSpaces(string& s) {
+		int slow = 0, fast = 0;
+		while (fast < s.size()) {
+			if (s[fast] != ' ') {
+				if (slow != 0)
+					s[slow++] = ' ';  // 加空格
+				while (fast < s.size() && s[fast] != ' ')
+					s[slow++] = s[fast++];
+			}
+			else
+				++fast;
+		}
+		s.resize(slow);
+		return;
+	}
+	// 反转指定区间的 s[left...right]
+	void reverseStr(string& s, int left, int right) {
+		while (left < right)
+			swap(s[left++], s[right--]);
+		return;
+	}
 
 };

@@ -188,6 +188,7 @@
     <ClCompile Include="242. 有效的字母异位词.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
     <ClCompile Include="279. 完全平方数.cpp" />
+    <ClCompile Include="3. 无重复字符的最长子串.cpp" />
     <ClCompile Include="300. 最长递增子序列.cpp" />
     <ClCompile Include="309. 最佳买卖股票时机含冷冻期.cpp" />
     <ClCompile Include="322. 零钱兑换.cpp" />

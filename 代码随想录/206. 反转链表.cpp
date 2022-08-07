@@ -38,21 +38,58 @@
   //     }
   // };
 
-  // µİ¹é·¨
+//  // µİ¹é·¨
+//class Solution {
+//public:
+//    ListNode* reverseList(ListNode* head) {
+//
+//        return reverse(nullptr, head);
+//    }
+//private:
+//    ListNode* reverse(ListNode* pre, ListNode* cur) {
+//        if (cur == nullptr)
+//            return pre;
+//
+//        ListNode* next = cur->next;
+//        cur->next = pre;
+//
+//        return reverse(cur, next);
+//    }
+//};
+
+// // µü´ú
+// class Solution {
+// public:
+//     ListNode* reverseList(ListNode* head) {
+
+//         ListNode* pre = nullptr;
+//         ListNode* cur = head;
+//         while (cur) {
+//             ListNode* next = cur->next;
+//             cur->next = pre;
+//             pre = cur;
+//             cur = next;
+//         }
+//         return pre;
+//     }
+
+// };
+
+
+// µİ¹é
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-
-        return reverse(nullptr, head);
+        return __reverseList(nullptr, head);
     }
 private:
-    ListNode* reverse(ListNode* pre, ListNode* cur) {
+    ListNode* dummyNode;
+    ListNode* __reverseList(ListNode* pre, ListNode* cur) {
         if (cur == nullptr)
             return pre;
-
         ListNode* next = cur->next;
         cur->next = pre;
-
-        return reverse(cur, next);
+        return __reverseList(cur, next);
     }
+
 };

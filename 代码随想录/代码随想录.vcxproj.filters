@@ -37,6 +37,9 @@
     <Filter Include="源文件\数组">
       <UniqueIdentifier>{45209e71-6e9a-4477-bf65-cf6684adbe47}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\栈和队列">
+      <UniqueIdentifier>{f14eca46-44fc-4c75-bd6a-53533b88e787}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="53. 最大子数组和.cpp">
@@ -338,6 +341,9 @@
     </ClCompile>
     <ClCompile Include="678. 有效的括号字符串.cpp">
       <Filter>源文件\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 31. 栈的压入、弹出序列.cpp">
+      <Filter>源文件\栈和队列</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

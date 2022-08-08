@@ -40,6 +40,9 @@
     <Filter Include="源文件\栈和队列">
       <UniqueIdentifier>{f14eca46-44fc-4c75-bd6a-53533b88e787}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\NewFilter1">
+      <UniqueIdentifier>{ba75bc8d-9432-48cb-9a5f-5c8fbab7eb96}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="53. 最大子数组和.cpp">
@@ -344,6 +347,9 @@
     </ClCompile>
     <ClCompile Include="剑指 Offer 31. 栈的压入、弹出序列.cpp">
       <Filter>源文件\栈和队列</Filter>
+    </ClCompile>
+    <ClCompile Include="698. 划分为k个相等的子集.cpp">
+      <Filter>源文件\回溯</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

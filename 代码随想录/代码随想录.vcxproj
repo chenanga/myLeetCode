@@ -185,6 +185,7 @@
     <ClCompile Include="221. 最大正方形.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="24. 两两交换链表中的节点.cpp" />
     <ClCompile Include="242. 有效的字母异位词.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
     <ClCompile Include="279. 完全平方数.cpp" />

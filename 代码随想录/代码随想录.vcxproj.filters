@@ -351,6 +351,9 @@
     <ClCompile Include="698. 划分为k个相等的子集.cpp">
       <Filter>源文件\回溯</Filter>
     </ClCompile>
+    <ClCompile Include="面试题 02.07. 链表相交.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

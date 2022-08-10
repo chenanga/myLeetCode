@@ -7,3 +7,11 @@ struct ListNode {
 	ListNode(int x, ListNode* next) : val(x), next(next) {}
 
 };
+
+
+
+struct listnode {
+	int val;
+	listnode* next;
+	listnode(int v) : val(v), next(nullptr) {};
+};

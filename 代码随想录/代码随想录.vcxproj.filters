@@ -366,6 +366,9 @@
     <ClCompile Include="232. 用栈实现队列.cpp">
       <Filter>源文件\栈和队列</Filter>
     </ClCompile>
+    <ClCompile Include="225. 用队列实现栈.cpp">
+      <Filter>源文件\栈和队列</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

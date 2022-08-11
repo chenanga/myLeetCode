@@ -187,6 +187,7 @@
     <ClCompile Include="221. 最大正方形.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="225. 用队列实现栈.cpp" />
     <ClCompile Include="232. 用栈实现队列.cpp" />
     <ClCompile Include="24. 两两交换链表中的节点.cpp" />
     <ClCompile Include="242. 有效的字母异位词.cpp" />

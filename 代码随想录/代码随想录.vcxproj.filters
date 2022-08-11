@@ -360,6 +360,9 @@
     <ClCompile Include="19. 删除链表的倒数第 N 个结点.cpp">
       <Filter>源文件\链表</Filter>
     </ClCompile>
+    <ClCompile Include="142. 环形链表 II.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

@@ -144,6 +144,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="1035. 不相交的线.cpp" />
+    <ClCompile Include="1047. 删除字符串中的所有相邻重复项.cpp" />
     <ClCompile Include="1049. 最后一块石头的重量 II.cpp" />
     <ClCompile Include="1143. 最长公共子序列.cpp" />
     <ClCompile Include="115. 不同的子序列.cpp" />
@@ -169,6 +170,7 @@
     <ClCompile Include="188. 买卖股票的最佳时机 IV.cpp" />
     <ClCompile Include="19. 删除链表的倒数第 N 个结点.cpp" />
     <ClCompile Include="198. 打家劫舍.cpp" />
+    <ClCompile Include="20. 有效的括号.cpp" />
     <ClCompile Include="202. 快乐数.cpp" />
     <ClCompile Include="203. 移除链表元素.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

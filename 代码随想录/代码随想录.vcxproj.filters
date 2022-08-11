@@ -363,6 +363,9 @@
     <ClCompile Include="142. 环形链表 II.cpp">
       <Filter>源文件\链表</Filter>
     </ClCompile>
+    <ClCompile Include="232. 用栈实现队列.cpp">
+      <Filter>源文件\栈和队列</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

@@ -162,6 +162,7 @@
     <ClCompile Include="139. 单词拆分.cpp" />
     <ClCompile Include="142. 环形链表 II.cpp" />
     <ClCompile Include="15. 三数之和.cpp" />
+    <ClCompile Include="150. 逆波兰表达式求值.cpp" />
     <ClCompile Include="151. 颠倒字符串中的单词.cpp" />
     <ClCompile Include="17. 电话号码的字母组合.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

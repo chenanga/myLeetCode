@@ -375,6 +375,9 @@
     <ClCompile Include="1047. 删除字符串中的所有相邻重复项.cpp">
       <Filter>源文件\栈和队列</Filter>
     </ClCompile>
+    <ClCompile Include="150. 逆波兰表达式求值.cpp">
+      <Filter>源文件\栈和队列</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

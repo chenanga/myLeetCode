@@ -378,6 +378,12 @@
     <ClCompile Include="150. 逆波兰表达式求值.cpp">
       <Filter>源文件\栈和队列</Filter>
     </ClCompile>
+    <ClCompile Include="239. 滑动窗口最大值.cpp">
+      <Filter>源文件\栈和队列</Filter>
+    </ClCompile>
+    <ClCompile Include="347. 前 K 个高频元素.cpp">
+      <Filter>源文件\栈和队列</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

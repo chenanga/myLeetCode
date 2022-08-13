@@ -161,6 +161,8 @@
     <ClCompile Include="135. 分发糖果.cpp" />
     <ClCompile Include="139. 单词拆分.cpp" />
     <ClCompile Include="142. 环形链表 II.cpp" />
+    <ClCompile Include="144. 二叉树的前序遍历.cpp" />
+    <ClCompile Include="145. 二叉树的后序遍历.cpp" />
     <ClCompile Include="15. 三数之和.cpp" />
     <ClCompile Include="150. 逆波兰表达式求值.cpp" />
     <ClCompile Include="151. 颠倒字符串中的单词.cpp" />
@@ -295,6 +297,7 @@
     <ClCompile Include="93. 复原 IP 地址.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="94. 二叉树的中序遍历.cpp" />
     <ClCompile Include="96. 不同的二叉搜索树.cpp" />
     <ClCompile Include="968. 监控二叉树.cpp" />
     <ClCompile Include="739. 每日温度.cpp" />

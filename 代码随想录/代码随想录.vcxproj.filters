@@ -40,7 +40,7 @@
     <Filter Include="源文件\栈和队列">
       <UniqueIdentifier>{f14eca46-44fc-4c75-bd6a-53533b88e787}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\NewFilter1">
+    <Filter Include="源文件\二叉树">
       <UniqueIdentifier>{ba75bc8d-9432-48cb-9a5f-5c8fbab7eb96}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -383,6 +383,15 @@
     </ClCompile>
     <ClCompile Include="347. 前 K 个高频元素.cpp">
       <Filter>源文件\栈和队列</Filter>
+    </ClCompile>
+    <ClCompile Include="144. 二叉树的前序遍历.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="145. 二叉树的后序遍历.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="94. 二叉树的中序遍历.cpp">
+      <Filter>源文件\二叉树</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

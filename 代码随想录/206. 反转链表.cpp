@@ -10,6 +10,7 @@
  */
 
 #include "listNode.h"
+#include "general.h"
 
  /**
   * Definition for singly-linked list.

@@ -9,7 +9,8 @@
  * };
  */
 
-#include "listNode.h"
+#include "general.h"
+
 
 class Solution {
 public:

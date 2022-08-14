@@ -393,6 +393,9 @@
     <ClCompile Include="94. 二叉树的中序遍历.cpp">
       <Filter>源文件\二叉树</Filter>
     </ClCompile>
+    <ClCompile Include="102. 二叉树的层序遍历.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

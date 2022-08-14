@@ -143,6 +143,7 @@
     <ClCompile Include="1005. K 次取反后最大化的数组和.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="102. 二叉树的层序遍历.cpp" />
     <ClCompile Include="1035. 不相交的线.cpp" />
     <ClCompile Include="1047. 删除字符串中的所有相邻重复项.cpp" />
     <ClCompile Include="1049. 最后一块石头的重量 II.cpp" />

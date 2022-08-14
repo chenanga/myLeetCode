@@ -408,6 +408,9 @@
     <ClCompile Include="429. N 叉树的层序遍历.cpp">
       <Filter>源文件\二叉树</Filter>
     </ClCompile>
+    <ClCompile Include="515. 在每个树行中找最大值.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

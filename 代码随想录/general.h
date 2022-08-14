@@ -1,14 +1,5 @@
 #pragma once
-#include <iostream>
-#include <vector>
-#include <stack>
-#include <unordered_map>
-#include <unordered_set>
-#include <set>
-#include <map>
-#include <algorithm>
-#include <deque>
-#include <queue>
+#include "bits/stdc++.h"
 using namespace std;
 
 struct ListNode {

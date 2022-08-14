@@ -151,6 +151,7 @@
     <ClCompile Include="1143. 最长公共子序列.cpp" />
     <ClCompile Include="115. 不同的子序列.cpp" />
     <ClCompile Include="116. 填充每个节点的下一个右侧节点指针.cpp" />
+    <ClCompile Include="117. 填充每个节点的下一个右侧节点指针 II.cpp" />
     <ClCompile Include="121. 买卖股票的最佳时机.cpp" />
     <ClCompile Include="122. 买卖股票的最佳时机 II-动归.cpp" />
     <ClCompile Include="122. 买卖股票的最佳时机 II.cpp">

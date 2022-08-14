@@ -405,6 +405,9 @@
     <ClCompile Include="637. 二叉树的层平均值.cpp">
       <Filter>源文件\二叉树</Filter>
     </ClCompile>
+    <ClCompile Include="429. N 叉树的层序遍历.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

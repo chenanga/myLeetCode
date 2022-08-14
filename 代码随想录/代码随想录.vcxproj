@@ -225,6 +225,7 @@
     <ClCompile Include="392. 判断子序列.cpp" />
     <ClCompile Include="406. 根据身高重建队列.cpp" />
     <ClCompile Include="42. 接雨水.cpp" />
+    <ClCompile Include="429. N 叉树的层序遍历.cpp" />
     <ClCompile Include="435. 无重叠区间.cpp" />
     <ClCompile Include="45. 跳跃游戏 II.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

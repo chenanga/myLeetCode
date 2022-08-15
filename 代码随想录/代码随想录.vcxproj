@@ -200,6 +200,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="225. 用队列实现栈.cpp" />
+    <ClCompile Include="226. 翻转二叉树.cpp" />
     <ClCompile Include="232. 用栈实现队列.cpp" />
     <ClCompile Include="239. 滑动窗口最大值.cpp" />
     <ClCompile Include="24. 两两交换链表中的节点.cpp" />

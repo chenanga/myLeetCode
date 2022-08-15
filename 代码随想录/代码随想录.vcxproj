@@ -199,6 +199,7 @@
     <ClCompile Include="221. 最大正方形.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="222. 完全二叉树的节点个数.cpp" />
     <ClCompile Include="225. 用队列实现栈.cpp" />
     <ClCompile Include="226. 翻转二叉树.cpp" />
     <ClCompile Include="232. 用栈实现队列.cpp" />

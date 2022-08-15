@@ -417,6 +417,9 @@
     <ClCompile Include="117. 填充每个节点的下一个右侧节点指针 II.cpp">
       <Filter>源文件\二叉树</Filter>
     </ClCompile>
+    <ClCompile Include="104. 二叉树的最大深度.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

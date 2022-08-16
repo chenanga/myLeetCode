@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1. 两数之和.cpp" />
+    <ClCompile Include="100. 相同的树.cpp" />
     <ClCompile Include="1005. K 次取反后最大化的数组和.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -258,6 +259,7 @@
     <ClCompile Include="51. N 皇后.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="513. 找树左下角的值.cpp" />
     <ClCompile Include="515. 在每个树行中找最大值.cpp" />
     <ClCompile Include="516. 最长回文子序列.cpp" />
     <ClCompile Include="518. 零钱兑换 II.cpp" />

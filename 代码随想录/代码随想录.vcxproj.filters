@@ -438,6 +438,12 @@
     <ClCompile Include="257. 二叉树的所有路径.cpp">
       <Filter>源文件\二叉树</Filter>
     </ClCompile>
+    <ClCompile Include="100. 相同的树.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="513. 找树左下角的值.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

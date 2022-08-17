@@ -280,6 +280,7 @@
     <ClCompile Include="56. 合并区间.cpp" />
     <ClCompile Include="583. 两个字符串的删除操作.cpp" />
     <ClCompile Include="59. 螺旋矩阵 II.cpp" />
+    <ClCompile Include="617. 合并二叉树.cpp" />
     <ClCompile Include="62. 不同路径.cpp" />
     <ClCompile Include="63. 不同路径 II.cpp" />
     <ClCompile Include="637. 二叉树的层平均值.cpp" />

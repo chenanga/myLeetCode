@@ -291,6 +291,7 @@
     <ClCompile Include="698. 划分为k个相等的子集.cpp" />
     <ClCompile Include="70. 爬楼梯-进阶.cpp" />
     <ClCompile Include="70. 爬楼梯.cpp" />
+    <ClCompile Include="700. 二叉搜索树中的搜索.cpp" />
     <ClCompile Include="704. 二分查找源.cpp" />
     <ClCompile Include="707. 设计链表.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

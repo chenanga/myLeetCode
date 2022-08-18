@@ -207,6 +207,7 @@
     <ClCompile Include="225. 用队列实现栈.cpp" />
     <ClCompile Include="226. 翻转二叉树.cpp" />
     <ClCompile Include="232. 用栈实现队列.cpp" />
+    <ClCompile Include="235. 二叉搜索树的最近公共祖先.cpp" />
     <ClCompile Include="236. 二叉树的最近公共祖先.cpp" />
     <ClCompile Include="239. 滑动窗口最大值.cpp" />
     <ClCompile Include="24. 两两交换链表中的节点.cpp" />
@@ -295,6 +296,7 @@
     <ClCompile Include="70. 爬楼梯-进阶.cpp" />
     <ClCompile Include="70. 爬楼梯.cpp" />
     <ClCompile Include="700. 二叉搜索树中的搜索.cpp" />
+    <ClCompile Include="701. 二叉搜索树中的插入操作.cpp" />
     <ClCompile Include="704. 二分查找源.cpp" />
     <ClCompile Include="707. 设计链表.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

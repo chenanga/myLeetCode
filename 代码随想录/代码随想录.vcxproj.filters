@@ -483,6 +483,9 @@
     <ClCompile Include="261. 以图判树.cpp">
       <Filter>源文件\图论</Filter>
     </ClCompile>
+    <ClCompile Include="547. 省份数量.cpp">
+      <Filter>源文件\图论</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

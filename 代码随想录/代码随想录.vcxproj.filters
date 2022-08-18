@@ -43,6 +43,9 @@
     <Filter Include="源文件\二叉树">
       <UniqueIdentifier>{ba75bc8d-9432-48cb-9a5f-5c8fbab7eb96}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\图论">
+      <UniqueIdentifier>{aac39160-2080-41a5-bcdc-7daa94aedbed}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="53. 最大子数组和.cpp">
@@ -476,6 +479,9 @@
     </ClCompile>
     <ClCompile Include="701. 二叉搜索树中的插入操作.cpp">
       <Filter>源文件\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="261. 以图判树.cpp">
+      <Filter>源文件\图论</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

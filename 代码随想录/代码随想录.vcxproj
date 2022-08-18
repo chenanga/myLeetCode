@@ -213,6 +213,7 @@
     <ClCompile Include="24. 两两交换链表中的节点.cpp" />
     <ClCompile Include="242. 有效的字母异位词.cpp" />
     <ClCompile Include="257. 二叉树的所有路径.cpp" />
+    <ClCompile Include="261. 以图判树.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
     <ClCompile Include="279. 完全平方数.cpp" />
     <ClCompile Include="3. 无重复字符的最长子串.cpp" />

@@ -220,6 +220,7 @@
     <ClCompile Include="300. 最长递增子序列.cpp" />
     <ClCompile Include="309. 最佳买卖股票时机含冷冻期.cpp" />
     <ClCompile Include="322. 零钱兑换.cpp" />
+    <ClCompile Include="323. 无向图中连通分量的数目.cpp" />
     <ClCompile Include="332. 重新安排行程.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -244,6 +245,7 @@
     <ClCompile Include="45. 跳跃游戏 II.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="450. 删除二叉搜索树中的节点.cpp" />
     <ClCompile Include="452. 用最少数量的箭引爆气球.cpp" />
     <ClCompile Include="454. 四数相加 II.cpp" />
     <ClCompile Include="459. 重复的子字符串.cpp" />

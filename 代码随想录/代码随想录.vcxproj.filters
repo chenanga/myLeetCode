@@ -486,6 +486,12 @@
     <ClCompile Include="547. 省份数量.cpp">
       <Filter>源文件\图论</Filter>
     </ClCompile>
+    <ClCompile Include="323. 无向图中连通分量的数目.cpp">
+      <Filter>源文件\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="450. 删除二叉搜索树中的节点.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

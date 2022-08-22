@@ -294,6 +294,7 @@
     <ClCompile Include="637. 二叉树的层平均值.cpp" />
     <ClCompile Include="647. 回文子串.cpp" />
     <ClCompile Include="654. 最大二叉树.cpp" />
+    <ClCompile Include="669. 修剪二叉搜索树.cpp" />
     <ClCompile Include="674. 最长连续递增序列.cpp" />
     <ClCompile Include="678. 有效的括号字符串.cpp" />
     <ClCompile Include="698. 划分为k个相等的子集.cpp" />

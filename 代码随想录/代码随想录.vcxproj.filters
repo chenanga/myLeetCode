@@ -492,6 +492,9 @@
     <ClCompile Include="450. 删除二叉搜索树中的节点.cpp">
       <Filter>源文件\二叉树</Filter>
     </ClCompile>
+    <ClCompile Include="669. 修剪二叉搜索树.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">

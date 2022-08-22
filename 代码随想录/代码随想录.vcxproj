@@ -280,6 +280,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="530. 二叉搜索树的最小绝对差.cpp" />
+    <ClCompile Include="538. 把二叉搜索树转换为累加树.cpp" />
     <ClCompile Include="541. 反转字符串 II.cpp" />
     <ClCompile Include="547. 省份数量.cpp" />
     <ClCompile Include="55. 跳跃游戏.cpp">

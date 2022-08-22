@@ -498,6 +498,9 @@
     <ClCompile Include="108. 将有序数组转换为二叉搜索树.cpp">
       <Filter>源文件\二叉树</Filter>
     </ClCompile>
+    <ClCompile Include="538. 把二叉搜索树转换为累加树.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listNode.h">
